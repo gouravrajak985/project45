@@ -71,5 +71,7 @@ frontend/src/screens/AdminDashboardScreen.tsx
 frontend/src/screens/UserListScreen.tsx
 frontend/src/screens/UserEditScreen.tsx
 frontend/src/components/Footer.tsx
+frontend/src/screens/SellerOrderListScreen.tsx
+frontend/src/screens/ProfileScreen.tsx
 " 
-Start doing remaining task and complete the project. Before finishing bolt.new token, update the progress in readme file. 
+Start doing remaining task and complete the project. Before finishing bolt.new token, update the progress in readme file. Follow the same file structure, frontend files in frontend folder, backend file in backend folder.
