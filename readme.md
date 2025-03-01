@@ -63,5 +63,13 @@ frontend/src/screens/PlaceOrderScreen.tsx
 frontend/src/screens/OrderScreen.tsx
 frontend/src/screens/OrderListScreen.tsx
 frontend/src/screens/ProductListScreen.tsx
-frontend/src/screens/ProductEditScreen.tsx" 
-ProductListScreen.tsx is unfinished, complete it. Also start doing remaining task and complete the project. Before finishing bolt.new token, update the progress in readme file. 
+frontend/src/screens/ProductEditScreen.tsx
+frontend/src/screens/ProductEditScreen.tsx
+frontend/src/screens/SellerProductListScreen.tsx
+frontend/src/screens/SellerDashboardScreen.tsx
+frontend/src/screens/AdminDashboardScreen.tsx
+frontend/src/screens/UserListScreen.tsx
+frontend/src/screens/UserEditScreen.tsx
+frontend/src/components/Footer.tsx
+" 
+Start doing remaining task and complete the project. Before finishing bolt.new token, update the progress in readme file. 
